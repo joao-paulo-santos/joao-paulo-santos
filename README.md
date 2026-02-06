@@ -1,47 +1,39 @@
 <img src="readme_assets/header.svg" />
 
 
-## About Me 👋
+## About Me
 
 
-🏢 Flutter Fullstack Engineer at [Global Investment Bank](https://www.big.pt/) <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pt.svg" alt="Portugal" width="20" style="vertical-align:middle; margin-left:4px;"/>
+Flutter Fullstack Engineer at [Global Investment Bank](https://www.big.pt/) <img src="https://cdn.jsdelivr.net/gh/hjnilsson/country-flags/svg/pt.svg" alt="Portugal" width="20" style="vertical-align:middle; margin-left:4px;"/>
 
-💻 Programming generalist with over 13 years of coding experience and 2 years of work experience. If something interests me, I will likely learn it. At some point, I found out I'm interested in way too many things, it seems I chose the right area!
-
-
-### 🛠️ Currently working on
-
-- Building **MoolTools**: a private CLI tool manager for sharing, updating, and organizing internal company scripts across multiple languages.
-- Developing **DockDoser**: a container watchdog that shuts down containers without traffic and provides a management dashboard, to help me manage and monitor my local home server. Later on, I might share more related custom tools and configs I make.
-
-### 🎮 Hobbies
-
-- 🎮 I love to game (top 50 Age of Empires player in Portugal!)
-- 💻 Coding is both my job and my hobby
-- 📺 I enjoy watching TV series
-- 📖 I read webtoons regularly (yes, in my own homelab instance of Suwayomi)
-
-🥇 Fun fact: My favorite programming language is Lisp. I am still actively looking for a worthy replacement (contact me if you find one).
+Programming generalist with 13+ years of coding experience. If something interests me, I will likely learn it. At some point, I found out I'm interested in way too many things.
 
 
-### 🌱 Currently Learning
+### Currently working on
 
-- Docker orchestration
-- Integration of local LLM pipelines and LoRA training
+- Building **MoolTools**: a private CLI tool manager for sharing, updating, and organizing internal company scripts across multiple languages. (private proprietary "npm")
+- Reverse Engineering **[GE-Library](https://github.com/joao-paulo-santos/GE-Library)**:  open-source library providing modern alternatives to tools used in the mmo Granado Espada development and modding. 
 
-## ⚡ Skills
+### Hobbies
+
+- I love to game (previously top 50 Age of Empires player in Portugal!)
+- Coding is both my job and my hobby
+- I enjoy watching TV series
+- I read webtoons regularly (yes, in my own homelab instance of Suwayomi)
+
+Fun fact: My favorite programming language is Lisp. I am still actively looking for a worthy replacement (contact me if you find one).
+
+
+### Currently Learning
+
+- Split Keyboard + Nvim, late to the party but so far so good.
+- Keeping up with AI tooling and how it integrates development processes, still not AI bullish, Its just a tool.
+
+## Skills
 
 For a more detailed and sortable View, including years of experience, years of work experience, related projects and other trivia, check my blog: [WIP]
 
 <!-- Generated Skills -->
-<p align="center">
-    <span style="display: inline-flex; align-items: center; gap: 8px;">
-      <b style="vertical-align: middle;">Basic</b>
-      <span style="display:inline-block;width:220px;height:28px;border-radius:6px;background:linear-gradient(90deg, #FFFFFF 0%, #E1F5FE 25%, #B3E5FC 50%, #81D4FA 75%, #6AD0FF 100%);"></span>
-      <b style="vertical-align: middle;">Advanced</b>
-    </span>
-    <br/>
-  </p>
 
 ### **Programming languages**
 <p>
@@ -125,6 +117,7 @@ For a more detailed and sortable View, including years of experience, years of w
   <img src="https://img.shields.io/badge/Linux-4-81D4FA?style=for-the-badge&labelColor=05C5FF&logo=arch%20linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/macOS-4-81D4FA?style=for-the-badge&labelColor=000000&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Windows-3-B3E5FC?style=for-the-badge&labelColor=0078D6&logo=windows&logoColor=white" alt="Windows" />
+  (Microslop Bad, only use when absolutly needed)
 </p>
 
 ### **Markup & Scripting**
